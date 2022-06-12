@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-💬[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/diego-nahuel-palacio/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:Diego_palacio2015@hotmail.com)
-
 
 😄 Me llamo Diego Palacio, soy de Argentina Buenos Aires.
 
 🔭 Actualmente estoy estudiando la Tecnicatura Universitaria en Informatica y la Licenciatura en Sistemas en la Universidad Nacional De General Sarmiento...
+
+💬  [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/diego-nahuel-palacio/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:Diego_palacio2015@hotmail.com)
 
 
 
