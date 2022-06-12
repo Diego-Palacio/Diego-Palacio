@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 </a>
 
 
-<a href="https://github.com/Grupo4IngenieriaSoftware/TP-Viveros">
+<a href="https://github.com/diego-palacio/TP-Viveros">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=diego-palacio&repo=TP-Viveros&title_color=70a5fd&text_color=38bdae&icon_color=bf91f3&bg_color=1a1b27" />
 </a>
 
