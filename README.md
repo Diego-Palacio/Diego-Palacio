@@ -59,6 +59,8 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=diego-palacio&repo=extensionNavegador&title_color=70a5fd&text_color=38bdae&icon_color=bf91f3&bg_color=1a1b27" />
 </a>  
 
-
+<a href="https://github.com/Diego-Palacio/Login-de-Usuarios">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=diego-palacio&repo=Login-de-Usuarios&title_color=70a5fd&text_color=38bdae&icon_color=bf91f3&bg_color=1a1b27" />
+</a>  
 
 
